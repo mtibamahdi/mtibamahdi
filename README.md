@@ -14,7 +14,7 @@
 
 🔎 I'm currently seeking job opportunities to apply my skills and contribute to exciting projects. I'm enthusiastic about learning new frameworks and technologies to expand my expertise.
 
-# Cryptocurrency Mining and Mining Rig Management Expert
+# ⛏️ Cryptocurrency Mining and Mining Rig Management Expert
 
 🔧 In addition to my software development skills, I have extensive experience in the field of cryptocurrency mining and managing mining operations. I am proficient in using HiveOS, a comprehensive mining operating system, to streamline and optimize the performance of mining rigs.
 
