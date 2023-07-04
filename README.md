@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mahdi Mtibaa! Full Stack Web Developer
+# 👋 Hello, I'm Mtibaa Mahdi! Full Stack Web Developer
 
 🔭 A recent graduate with a degree in engineering from IIT Sfax, Tunisia. I'm an enthusiastic developer with a passion for creating web and mobile applications.
 
