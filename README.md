@@ -14,4 +14,4 @@
 
 🔎 I'm currently seeking job opportunities to apply my skills and contribute to exciting projects. I'm enthusiastic about learning new frameworks and technologies to expand my expertise.
 
-💼 If you're interested in collaborating or have any job opportunities, feel free to reach out to me! You can connect with me on [LinkedIn](https://www.linkedin.com/in/mtibaa-mahdi-00b5aa179/) or reach me by email at mahdi.mtiba@gmail.com. Let's connect and discuss how we can work together to create amazing applications.
+💼 If you're interested in collaborating or have any job opportunities, feel free to reach out to me! You can connect with me on [LinkedIn](https://www.linkedin.com/in/mtibaamahdi/) or reach me by email at mahdi.mtiba@gmail.com. Let's connect and discuss how we can work together to create amazing applications.
