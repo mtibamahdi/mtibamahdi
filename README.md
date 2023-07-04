@@ -14,4 +14,18 @@
 
 🔎 I'm currently seeking job opportunities to apply my skills and contribute to exciting projects. I'm enthusiastic about learning new frameworks and technologies to expand my expertise.
 
+### Contact
+
 💼 If you're interested in collaborating or have any job opportunities, feel free to reach out to me! You can connect with me on [LinkedIn](https://www.linkedin.com/in/mtibaamahdi/) or reach me by email at mahdi.mtiba@gmail.com. Let's connect and discuss how we can work together to create amazing applications.
+
+### Cryptocurrency Mining and Mining Rig Management Expert
+
+🔧 In addition to my software development skills, I have extensive experience in the field of cryptocurrency mining and managing mining operations. I am proficient in using HiveOS, a comprehensive mining operating system, to streamline and optimize the performance of mining rigs.
+
+⛏️ With HiveOS, I have successfully managed and monitored GPU mining rigs, ensuring their stability and maximizing their hash rates. I am skilled in configuring and fine-tuning mining parameters, as well as troubleshooting hardware and software issues that may arise during the mining process.
+
+📈 Leveraging my knowledge of mining algorithms, pool selection, and hardware optimization, I have consistently achieved excellent results in cryptocurrency mining operations. I am experienced in optimizing power consumption and maximizing mining profitability.
+
+💡 Additionally, I actively contribute to the cryptocurrency mining community by sharing insights and best practices. I stay updated with the latest developments and advancements in mining technology to continuously improve mining efficiency and profitability.
+
+🌟 If you're interested in blockchain projects or seeking expertise in cryptocurrency mining and mining rig management, I can provide valuable insights and contribute to your endeavors. Let's connect and explore opportunities to collaborate on exciting projects in the world of cryptocurrency mining.
