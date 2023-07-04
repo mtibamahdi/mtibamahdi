@@ -26,6 +26,6 @@
 
 🌟 If you're interested in blockchain projects or seeking expertise in cryptocurrency mining and mining rig management, I can provide valuable insights and contribute to your endeavors. Let's connect and explore opportunities to collaborate on exciting projects in the world of cryptocurrency mining.
 
-# Contact
+# 📧 Contact
 
 💼 If you're interested in collaborating or have any job opportunities, feel free to reach out to me! You can connect with me on [LinkedIn](https://www.linkedin.com/in/mtibaamahdi/) or reach me by email at mahdi.mtiba@gmail.com. Let's connect and discuss how we can work together to create amazing applications.
