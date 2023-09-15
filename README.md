@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Mtibaa Mahdi! Full Stack Web Developer
 
+![Profile views](https://gpvc.arturio.dev/your-username)
+
 🔭 A recent graduate with a degree in engineering from IIT Sfax, Tunisia. I'm an enthusiastic developer with a passion for creating web and mobile applications.
 
 💻 On the front-end, I specialize in React, utilizing its power to build dynamic and interactive user interfaces. I'm also proficient in HTML, CSS, and Bootstrap, allowing me to design visually appealing websites. With knowledge of EJS, I can work with server-side rendering in Node.js and Express.js. Furthermore, I have experience with Flutter, a versatile framework for building cross-platform mobile applications.
