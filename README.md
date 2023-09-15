@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mtibaa Mahdi! Full Stack Web Developer
 
-![Profile views](https://gpvc.arturio.dev/mtibamahdi)
+![Profile views](https://komarev.com/ghpvc/?username=mtibamahdi&color=green)
 
 🔭 A recent graduate with a degree in engineering from IIT Sfax, Tunisia. I'm an enthusiastic developer with a passion for creating web and mobile applications.
 
